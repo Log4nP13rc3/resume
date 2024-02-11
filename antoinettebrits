@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Antoinette Brits</title>
+
+    <style>
+        h2, #skilltab {
+            border: solid 2px black;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Antoinette Brits</h1>
+        <h1><em>Full Stack Developer</em></h1>
+    </header>
+    <hr>
+    <section>
+        <table>
+            <tr>
+                <td>
+                    <a href="https://www.linkedin.com/in/antoinette-brits-577070186/" target="_blank">
+                        <img src="https://media.licdn.com/dms/image/D4D03AQFpughN0r1N5w/profile-displayphoto-shrink_800_800/0/1707383054363?e=1713398400&v=beta&t=c1oHgAsOLvr7ZWMALIN0N8L_6_4_qSo-QTr39GZ4NcU" width="100%" alt="Antoinette Brits">
+                    </a>
+                </td>
+                <td>
+                    <h2>Objective</h2>
+                    <p>Enthusiastic and detail-oriented professional embarking on a transition into the IT field through the Full Stack Developer course at Mabili. Motivated by a passion for learning and a desire to upskill, I am seeking opportunities to leverage my 4 years of experience in tutoring, assessment development, and course development to excel as a versatile and adept Full Stack Developer.</p>
+                </td>
+            </tr>
+        </table>
+        <hr>
+    </section>
+    
+    <section>        
+        <h2>Experience</h2>
+        <h3>Assessment and Course Developer - <small>January 2020 - Present</small></h3>
+        <ul>
+            <li><strong>Assessment Development:</strong>As an assessment developer, I am responsible for the development of School Based Assessments (SBAs; all tasks including assignments, investigations, practical assessment tasks, tests and examinations) aligned with the CAPS curriculum for the following subjects:</li>
+            <ul>
+                <li>Engineering Graphics and Design (Grade 10-12)</li>
+                <li>Visual Arts (Grade 10-12)</li>
+                <li>Mathematics (Grade 8-9)</li>
+                <li>Natural Science (Grade 8-9)</li>
+                <li>Technology (Grade 8-9)</li>
+                <li>Creative Arts (Grade 8-9)</li>
+            </ul>
+            <li><strong>Course Development:</strong> As a course developer, I am responsible for the above subjects as a Subject Specialist on the Moore House Academy Learner Management System (LMS). My duties include developing additional content such as quizzes, PowerPoint presentations and videos in which the CAPS curriculum is covered.</li>
+            <li><strong>Tutoring:</strong> As a tutor, I explain course content to students online or one-on-one. In my diverse role, I have tutored students in all of the above subjects including, but not limited to:</li>
+            <ul>
+                <li>English Home Language (Grade 8-12)</li>
+                <li>Afrikaans First Additional Language (Grade 8-12)</li>
+                <li>Life Orientation (Grade 8-12)</li>
+            </ul>
+            <li><strong>Marking:</strong> As a marker, I have revised scripts from students and provided feedback to ensure improved performance from students in the future.
+            </li>
+            <li><strong>Pre- and Post-Moderation:</strong> Collaborated with fellow assessment developers to pre-moderate their SBAs, which involves identifying whether the SBA is aligned with the correct curriculum, checking for errors and approving the SBA. During post-moderation, assessment developers and markers collaborate to moderate marked scripts, ensuring that markers have correctly marked the SBAs in accordance with SBA guidelines/ memoranda, and provided feedback to students.</li>
+        </ul>
+        <hr>
+    </section>
+    
+    <section>        
+        <h2>Skills</h2>
+        <table id="skilltab">
+            <tr>
+                <td>
+                    <h3><em>Technical Skills</em></h3>
+                    <ul>
+                        <li>Proficiency in Microsoft Office Suite including Word, Excel, and PowerPoint.</li>
+                        <li>Basic Computer Troubleshooting with the ability to diagnose and resolve common hardware and software issues.</li>
+                        <li>Basic Computer Troubleshooting with the ability to diagnose and resolve common hardware and software issues.</li>
+                    </ul>
+                </td>
+                <td>
+                    <h3><em>Soft Skills</em></h3>
+                    <ul>
+                        <li>Strong written and verbal communication skills.</li>
+                        <li>Excellent project management abilities.</li>
+                        <li>Effective time management capabilities.</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+        <hr>
+    </section>
+
+    <footer>
+        <div>Contact
+            <address>
+                Email: <a href="mailto:antlobrits1507@gmail.com">antlobrits1507@gmail.com</a><br>
+                Phone: <a href="tel:+27 79 388 4114">+27 79 388 4114</a><br>
+            </address>
+        </div>
+    </footer>
+
+</body>
+
+</html>
